@@ -46,5 +46,5 @@ A simple chatbot that responds to predefined user inputs and runs until the user
 - Functions  
 - Loops  
 - Conditional statements
-- 
+
 
