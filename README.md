@@ -45,12 +45,6 @@ A simple chatbot that responds to predefined user inputs and runs until the user
 **Concepts Used:**  
 - Functions  
 - Loops  
-- Conditional statements  
-
----
-
-## 🛠 How to Run the Programs
-1. Clone the repository or download the files
-2. Navigate to the task folder
-3. Run the Python file using:
+- Conditional statements
+- 
 
