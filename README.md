@@ -27,11 +27,8 @@ A simple program that calculates the total investment value based on user-input 
 ---
 
 ### Task 3: Task Automation Scripts
-Python scripts that automate basic tasks such as:
-- Moving `.jpg` files to a separate folder  
+Python script that automate basic tasks including:  
 - Extracting email addresses from a text file  
-- Scraping the title of a webpage  
-
 **Concepts Used:**  
 - OS and file operations  
 - Regular expressions  
@@ -46,5 +43,6 @@ A simple chatbot that responds to predefined user inputs and runs until the user
 - Functions  
 - Loops  
 - Conditional statements
+
 
 
