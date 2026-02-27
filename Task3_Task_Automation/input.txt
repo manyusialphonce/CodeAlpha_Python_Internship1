@@ -1,0 +1,11 @@
+Hello team,
+
+Please contact us at info@company.com for more information.
+You can also reach support@company.com or sales@company.com.
+
+Best regards,
+John Doe
+john.doe@example.com
+
+Random text without email
+Another one: test.user123@domain.co.uk
