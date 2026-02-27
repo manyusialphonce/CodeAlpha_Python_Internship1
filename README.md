@@ -28,7 +28,8 @@ A simple program that calculates the total investment value based on user-input 
 
 ### Task 3: Task Automation Scripts
 Python script that automate basic tasks including:  
-- Extracting email addresses from a text file  
+- Extracting email addresses from a text file
+  
 **Concepts Used:**  
 - OS and file operations  
 - Regular expressions  
@@ -43,6 +44,7 @@ A simple chatbot that responds to predefined user inputs and runs until the user
 - Functions  
 - Loops  
 - Conditional statements
+
 
 
 
